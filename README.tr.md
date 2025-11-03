@@ -5,7 +5,7 @@ Damn Vulnerable Web Application (DVWA), son derece zafiyetli bir PHP/MySQL web u
 DVWA, **en yaygın web zafiyetlerinden bazılarının** basit bir arayüz üzerinden **farklı zorluk seviyelerinde denenmesini** hedefler. Bu uygulamada, **dokümante edilmiş ve edilmemiş** zafiyetler olduğunu hatırlatmakta fayda var. Mümkün mertebe fazla problemi deneyin ve keşfedin!
 - - -
 
-## UYARI!
+## UYARI!!
 
 Damn Vulnerable Web Application epey zafiyetlidir! **Internet üzerinden erişilebilen bir sunucuya veya barındırma hizmeti sağlayıcınızın public_html dizinine yüklemeyin.** Bu durum, sunucunuzu tehlikeye atar. [VirtualBox](https://www.virtualbox.org/) veya [VMware](https://www.vmware.com/) gibi bir ortamda, sanal makinede, NAT ağı modunda kullanmanız önerilir. Sanal makine içinde web sunucusu ve veri tabanı için [XAMPP](https://www.apachefriends.org/) indirip kurabilirsiniz.
 
