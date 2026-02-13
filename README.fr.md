@@ -17,7 +17,7 @@ Notez qu'il existe des **vulnérabilités documentées ou non** avec ce programm
 
 Bordel D'application web vulnérable est vachement vulnérable ! **Ne la publiez pas sur le dossier html public de votre hébergeur ni aucun serveur visible sur internet**, ou ils seront compromis. Il est recommendé d'utiliser une machine virtuelle (comme [VirtualBox](https://www.virtualbox.org/) ou [VMware](https://www.vmware.com/)), réglé sur le mode réseau NAT. Dans une machine invitée, vous pouvez télécharger et installer [XAMPP](https://www.apachefriends.org/) pour le serveur web et la base de données.
 
-### Non-responsabilité
+### Non-responsabilité 
 
 Nous ne sommes pas responsables de la manière dont vous utilisez BAWV. Nous avons clairement défini les objectifs de l'application et elle ne dois pas être utilisée de manière malveillante. Nous vous avons averti et avons pris les mesures nécessaires pour informer les utilisateurs de BAWV à propos de son installation sur un serveur. Si votre serveur est compromis à cause d'une installation de BAWV, il n'en découle pas de notre responsabilité, mais de celle de la/les personne(s) qui l'a/ont téléchargé ou installé, envoyé.
 - - -
