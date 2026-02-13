@@ -3,7 +3,7 @@
 Damn Vulnerable Web Application (DVWA), son derece zafiyetli bir PHP/MySQL web uygulamasıdır. Temel amacı; güvenlik uzmanlarına, yeteneklerini ve araçlarını test etmeleri konusunda yasal bir ortam sunmak, web geliştiricilerinin web uygulamalarının güvenliğini sağlama süreçlerini daha iyi anlamalarına yardımcı olmak, öğrencilere ve eğitmenlere web uygulamalarının güvenliğini öğrenme/öğretme konusunda kontrollü bir sınıf ortamı sunmaktır.
 
 DVWA, **en yaygın web zafiyetlerinden bazılarının** basit bir arayüz üzerinden **farklı zorluk seviyelerinde denenmesini** hedefler. Bu uygulamada, **dokümante edilmiş ve edilmemiş** zafiyetler olduğunu hatırlatmakta fayda var. Mümkün mertebe fazla problemi deneyin ve keşfedin! 
-- - -
+- - - 
 
 ## UYARI!!
 
