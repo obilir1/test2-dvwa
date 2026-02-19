@@ -8,7 +8,7 @@ DVWA, **en yaygın web zafiyetlerinden bazılarının** basit bir arayüz üzeri
 ## UYARI!!
 
 Damn Vulnerable Web Application epey zafiyetlidir! **Internet üzerinden erişilebilen bir sunucuya veya barındırma hizmeti sağlayıcınızın public_html dizinine yüklemeyin.** Bu durum, sunucunuzu tehlikeye atar. [VirtualBox](https://www.virtualbox.org/) veya [VMware](https://www.vmware.com/) gibi bir ortamda, sanal makinede, NAT ağı modunda kullanmanız önerilir. Sanal makine içinde web sunucusu ve veri tabanı için [XAMPP](https://www.apachefriends.org/) indirip kurabilirsiniz.
-
+ 
 ### Sorumluluk Reddi
 
 Herhangi bir kişinin bu uygulamayı (DVWA) nasıl kullandığı konusunda sorumluluk kabul etmiyoruz. Uygulamanın amaçlarını açıkça ifade ettik, bu uygulama kötü amaçlarla kullanılmamalıdır. Kullanıcıların, DVWA'yı canlı ortamdaki web sunucularına yüklemelerine engel olmak için uyarılarda bulunduk ve önlemler aldık. Web sunucunuz, bir DVWA kurulumu nedeniyle tehlikeye düştüyse, bu bizim sorumluluğumuz değildir. Uygulamayı yükleyen ve kuran kişi ya da kişilerin sorumluluğudur.
