@@ -13,7 +13,7 @@ Damn Vulnerable Web Application epey zafiyetlidir! **Internet üzerinden erişil
 
 Herhangi bir kişinin bu uygulamayı (DVWA) nasıl kullandığı konusunda sorumluluk kabul etmiyoruz. Uygulamanın amaçlarını açıkça ifade ettik, bu uygulama kötü amaçlarla kullanılmamalıdır. Kullanıcıların, DVWA'yı canlı ortamdaki web sunucularına yüklemelerine engel olmak için uyarılarda bulunduk ve önlemler aldık. Web sunucunuz, bir DVWA kurulumu nedeniyle tehlikeye düştüyse, bu bizim sorumluluğumuz değildir. Uygulamayı yükleyen ve kuran kişi ya da kişilerin sorumluluğudur.
 
-- - -
+- - - 
 
 ## Lisans
 
