@@ -21,7 +21,7 @@ Bu dosya, Damn Vulnerable Web Application'ın (DVWA) bir parçasıdır.
 
 Damn Vulnerable Web Application (DVWA) bir özgür yazılımdır. Yazılımı; Özgür Yazılım Vakfı
 tarafından yayınlanan GNU Genel Kamu Lisansı'nın 3. versiyonu ya da tercihinize göre daha yeni
-bir versiyonunda yer alan koşullar altında yeniden dağıtabilir ve/veya değiştirebilirsiniz.
+bir versiyonunda yer alan koşullar altında yeniden dağıtabilir ve/veya değiştirebilirsiniz. 
 
 Damn Vulnerable Web Application (DVWA), faydalı olması umuduyla, ancak HERHANGİ BİR GARANTİ OLMADAN,
 SATILABİLİRLİK veya BELİRLİ BİR AMACA UYGUNLUK garantisi bile ima edilmeden dağıtılmıştır.
