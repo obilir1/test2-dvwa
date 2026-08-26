@@ -7,6 +7,7 @@ Vous pouvez me contacter en cas d'erreur de traduction / d'interprétation.
 
 # DAMN VULNERABLE WEB APPLICATION / BORDEL D'APPLICATION WEB VULNÉRABLE
 
+
 Bordel d'application web vulnérable (BAWV, traduit DVWA) est une application web PHP/MySQL vulnérable. Son but principal est d'être une aide pour les experts en sécurité pour tester leurs compétences et outils dans un environnement légal, aider les développeurs web à mieux comprendre la sécurisation des applications web et d'aider les élèves et professeurs à apprendre la sécurité des applications web dans un environnement d'études.
 
 L'objectif de BAWV est **d'expérimenter les vulnérabilités web les plus communes**, avec **différents niveaux de difficulté**, avec une interface intuitive.
