@@ -12,7 +12,7 @@ Damn Vulnerable Web Application sangat rentan! **Jangan mengunggahnya ke folder 
 Disarankan untuk menggunakan mesin virtual (seperti [VirtualBox](https://www.virtualbox.org/) atau [VMware](https://www.vmware.com/)), yang diatur dalam mode jaringan NAT. 
 Di dalam mesin virtual, Anda dapat mengunduh dan menginstal [XAMPP](https://www.apachefriends.org/) untuk web server dan database.
 
-### Penyangkalan
+### Penyangkalan 
 
 Kami tidak bertanggung jawab atas cara penggunaan aplikasi ini (DVWA) oleh siapa pun. 
 Tujuan dari aplikasi ini telah kami jelaskan dan seharusnya tidak digunakan dengan niat jahat. 
