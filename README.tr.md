@@ -18,6 +18,7 @@ Herhangi bir kişinin bu uygulamayı (DVWA) nasıl kullandığı konusunda sorum
 - - -  
 
 
+
 ## Lisans
 Bu dosya, Damn Vulnerable Web Application'ın (DVWA) bir parçasıdır.
 
